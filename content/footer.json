@@ -32,19 +32,19 @@
 
 	"social": [
 		{
-			"url": "https://medium.com/@--rynamol",
-			"icon": "medium"
+			"url": "",
+			"icon": "facebook"
 		},
 		{
-			"url": "https://dev.to/nelson",
-			"icon": "dev"
+			"url": "",
+			"icon": "instargram"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--rynamol/",
+			"url": "https://www.linkedin.com/in/mol-ryna-2296b51a1/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/rynaboy",
 			"icon": "github"
 		}
 	]
