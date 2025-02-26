@@ -1,10 +1,10 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
+		"project": "Assetmanagement",
+		"url": "http://assetmanagement.freelancelearn.biz/",
 		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"descriptionTitle": "Assets for store all information of the comapany with deprecation",
+		"description": "To solved problem that customer needed to store items.",
 		"imageOptions": [
 		],
 		"images": [
@@ -21,9 +21,9 @@
 			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" },
+			{ "key": "laravel",		"name": "Laravel", 		"type": "devicon" }
 		]
 	},
 	{
