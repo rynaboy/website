@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "const Ryna = ( name, passion ) =>",
+		"end": "Hello, my name is RYNA MOL",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,7 +11,7 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
+		"name": "RYNA MOL.",
 		"usp": "I design and build meaningful experiences."
 	},
 
