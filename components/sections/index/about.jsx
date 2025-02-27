@@ -53,9 +53,8 @@ export default function About() {
 							block="methods" 
 							icon="fingerprint"
 							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
-							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
-						/>
+						/> 
 					</div>
 				</section>	
 			</Container>
