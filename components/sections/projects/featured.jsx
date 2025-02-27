@@ -15,7 +15,11 @@ export default function FeaturedProjects() {
 
 	return (
 		<Section classProp={css.hasBg}>	
+<<<<<<< HEAD
 			 
+=======
+			
+>>>>>>> refs/remotes/origin/main
 		</Section>
 	)
 }
