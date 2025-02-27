@@ -54,7 +54,7 @@ export default function About() {
 							icon="fingerprint"
 							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
 							headerIcon={`${about.icon}`}
-						/>
+						/> 
 					</div>
 				</section>	
 			</Container>
