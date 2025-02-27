@@ -15,7 +15,7 @@ export default function FeaturedProjects() {
 
 	return (
 		<Section classProp={css.hasBg}>	
-			
+			 
 		</Section>
 	)
 }
