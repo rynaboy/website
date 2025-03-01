@@ -3,13 +3,13 @@
 	"logo": "",
 	
 	"username": {
-		"github": "atlamors",
+		"github": "rynaboy",
 		"medium": "@--rynamol"
 	},
 
 	"portfolio": { 
 		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"repo_html": "https://www.github.com/rynaboy/website",
+		"repo_api": "#"
 	}
 }
