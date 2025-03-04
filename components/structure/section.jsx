@@ -1,4 +1,3 @@
-// Section structure scss
 import sections from '../../styles/structure/section.module.scss';
 
 /**
